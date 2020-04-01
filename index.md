@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey Hey! Can you hear me?
 
 You can use the [editor on GitHub](https://github.com/breadchief/decade/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
